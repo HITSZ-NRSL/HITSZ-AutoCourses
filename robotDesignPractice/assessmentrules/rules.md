@@ -3,7 +3,7 @@
 
 ## 重要事情说三遍：每组机器人车体上要有队名，每组机器人车体上要有队名，每组机器人车体上要有队名。
 ## 一、机器人制作课程考核办法：
-![考核赛道](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/raw/master/机器人设计与实践/课程考核暨比赛/examlane.png)
+![考核赛道](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/raw/master/robotDesignPractice/assessmentrules/examlane.png)
 
 **学生利用所搭建的轮式机器人寻迹小车完成设定的任务，是对学生知识掌握能力和动手实践能力的综合检查。按如下等级进行评定：**
 ### 1.基本分8分：
@@ -19,7 +19,7 @@
 #### （4）每个组只有两次完成任务机会，请慎重对待！
 
 ## 二、机器人竞赛规则（所有参加队伍额外加分3分）：
-![竞速赛道](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/raw/master/机器人设计与实践/课程考核暨比赛/racelane.png)
+![竞速赛道](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/raw/master/robotDesignPractice/assessmentrules/racelane.png)
 ### 1. 第一轮：（34选12）
 所有队伍随机分到三组：A, B, C, 每组按照序号进行对决，最强者晋级下一轮；
 ### 2. 第二轮：（12选4）
