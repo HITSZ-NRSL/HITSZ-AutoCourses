@@ -25,9 +25,9 @@
 本次机器人竞赛分小组赛阶段和淘汰赛阶段，淘汰赛分为1/8决赛、1/4决赛、半决赛、决三、四名比赛、冠亚军决赛。32支队伍中有八支种子队，将分到A-H八个组中，每组一个队，其他队通过抽签方式随机分到A-H八个组中。最终形成八个组，每组4个队。 
 
 注：根据周二考核成绩，种子队为：  
-**A组：team 10  B组：第九队  C组：老师说得队  D组：重在参与队 
+**  A组：team 10  B组：第九队  C组：老师说得队  D组：重在参与队 
 
-**E组：秋名山   F组：恒风队  G组：mito       H组：虎式坦克   
+**  E组：秋名山   F组：恒风队  G组：mito       H组：虎式坦克   
 
 详细比赛规则[下载](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/raw/master/robotDesignPractice/assessmentrules/racerules.pdf)
 
