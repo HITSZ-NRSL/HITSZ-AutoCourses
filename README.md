@@ -3,3 +3,4 @@ Resource of courses in Department of Automation in Harbin Institute of Technolog
 
 ## Design and Practice of Robotic System
 
+### 2018 Freshman
