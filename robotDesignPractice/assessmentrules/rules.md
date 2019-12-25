@@ -39,7 +39,7 @@
 图1为小组赛赛道，赛道中设置了四个赛位（出发点）。我们以第一组为例，讲述小组赛规则：第一组内有1、2、3、4四个队，队伍在赛道中的位置由上午的考核成绩决定，其中第一名排在赛位1，第二名排在赛位3，第三名排在赛位2，第四名排在赛位4，按顺时针方向前进。
 比赛开始，四队同时启动，被追上者出局（被淘汰车辆拿离赛道），最后一支留在场上的队伍晋级；比赛过程中，离开跑道者直接出局；通过16组的比赛产生“16强”。
 
-详细比赛规则[下载](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/raw/master/robotDesignPractice/assessmentrules/racerules2019.pdf)
+详细比赛规则[下载](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/raw/master/robotDesignPractice/assessmentrules/rules2019.pdf)
 
 注：（1）加分情况：冠军（10分），亚军（8分）季军（6分） 最佳技术创新奖（8分）， 最佳外形设计奖（8分）
 
