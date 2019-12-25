@@ -3,4 +3,6 @@ Resource of courses in Department of Automation in Harbin Institute of Technolog
 
 ## Design and Practice of Robotic System
 
-### 2018 Freshman
+### 2019 Freshman
+
+For detailed rules, please refer to ![rules](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/blob/master/robotDesignPractice/assessmentrules/rules.md)
