@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 	ros::init(argc, argv, "trafficLaneTrack"); //初始化ROS节点
 	ros::NodeHandle n;
 
-    //Before the use of camera, you can test ur program with images first: imread()
+	//Before the use of camera, you can test ur program with images first: imread()
 	VideoCapture capture;
 	capture.open(0); //打开zed相机，如果要打开笔记本上的摄像头，需要改为0
 	waitKey(100);
@@ -34,14 +34,16 @@ int main(int argc, char **argv)
 #ifndef READIMAGE_ONLY
 	ros::Publisher pub = n.advertise<geometry_msgs::Twist>("/smoother_cmd_vel", 5); //定义dashgo机器人的速度发布器
 #endif
-    Mat src_frame;
-	while (ros::ok()){
+	Mat src_frame;
+	while (ros::ok())
+	{
 		capture.read(src_frame);
-		if (src_frame.empty()){
+		if (src_frame.empty())
+		{
 			break;
-		 }
+		}
 		imshow("src", src_frame);
-        // 此处为实验部分，请自行增加直方图均衡化的代码
+		// 此处为实验部分，请自行增加直方图均衡化的代码
 
 #ifndef READIMAGE_ONLY
 		//以下代码可设置机器人的速度值，从而控制机器人运动
