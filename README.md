@@ -6,3 +6,5 @@ Resource of courses in Department of Automation in Harbin Institute of Technolog
 ### 2019 Freshman
 
 For detailed rules, please refer to ![rules](https://github.com/HITSZ-NRSL/HITSZ-AutoCourses/blob/master/robotDesignPractice/assessmentrules/rules.md)
+
+## Digital Image Processing
